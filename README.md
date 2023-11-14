@@ -33,6 +33,6 @@ Our app is not directed to individuals under the age of 13. We do not knowingly 
 ## Changes to This Privacy Policy
 We reserve the right to update or modify this Privacy Policy at any time. The latest version will be effective upon posting. We encourage you to review this page periodically for any changes.
 
-9. Contact Us
+## Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at ST10083451@vcconnect.edu.za.
 
